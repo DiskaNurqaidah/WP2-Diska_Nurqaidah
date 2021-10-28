@@ -8,8 +8,8 @@
     </head>
     <body>
        <h2>Identitas</h2><br>
-       Nama     : Randi Ramadani <br>
-       NIM      : 12200277 <br>
+       Nama     : Diska Nurqaidah <br>
+       NIM      : 12200252 <br>
        Kelas    : 12.3a.15 <br>
        Prodi    : Sistem Informasi<br>
     </body>
