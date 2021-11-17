@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+ 
 /*
 | -------------------------------------------------------------------
 | USER AGENT TYPES
@@ -151,7 +151,6 @@ $mobiles = array(
 	'wii'			=> 'Nintendo Wii',
 	'open web'		=> 'Open Web',
 	'openweb'		=> 'OpenWeb',
-	'meizu'                 => 'Meizu',
 
 	// Operating Systems
 	'android'		=> 'Android',
